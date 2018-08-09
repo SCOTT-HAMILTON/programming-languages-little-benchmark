@@ -1,0 +1,6 @@
+[package]
+name = "bench_rust"
+version = "0.1.0"
+authors = ["SCOTT-HAMILTON <sgn.hamilton@gmail.com>"]
+
+[dependencies]

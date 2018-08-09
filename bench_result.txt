@@ -1,0 +1,9 @@
+python : 8min 7s
+c++ : 5,4644 s
+c : 5,182 s
+rust : 4,8419283258 s
+
+
+Wanted output : 
+result : 281726329711.800900
+total iterations : 36100038
