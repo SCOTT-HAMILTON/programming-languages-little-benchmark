@@ -45,7 +45,7 @@ int main(){
 	f2(start);
 	
 	std::printf("result : %f\n", result);
-	std::printf("total iterations : %ld\n", it_total);
+	std::printf("total iterations : %llu\n", it_total);
 	clock_t time_exec = clock()-t;
 	std::printf("time : %f", static_cast<double>(time_exec)/static_cast<double>(CLOCKS_PER_SEC));
 	return 0;

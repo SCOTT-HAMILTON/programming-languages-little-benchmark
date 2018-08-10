@@ -46,7 +46,7 @@ int main(){
 	f2(&start);
 	
 	printf("result : %f\n", result);
-	printf("total iterations : %ld\n", it_total);
+	printf("total iterations : %llu\n", it_total);
 	
 	clock_t time_exec = clock()-t;
 	printf("time : %f", (double)(time_exec)/(double)(CLOCKS_PER_SEC));
