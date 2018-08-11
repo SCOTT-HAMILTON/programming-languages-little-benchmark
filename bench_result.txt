@@ -13,6 +13,7 @@ python : 5m23,214s //Python 3.4 numpy
 c++ : 6,139s       //Clang 6
 c : 5,951s	   //clang 6
 rust : 7,0702s	   //rust 1.28.0
+Crystal : 5,4168   //Crystal 0.25.1 LLVM4
 
 
 Wanted output : 
