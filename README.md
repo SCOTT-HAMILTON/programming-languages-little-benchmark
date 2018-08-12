@@ -12,21 +12,21 @@ made of an intel core i7 @620M, NVS 2100M and 4Go DDR3 of ram
 
 
 ####WIndows 7 PRO
-| language benched| execution time         | comments  |
-| ------------------------|---------------------------|----------------|
-|python                    |      8min 7s
-|c++                        |       5,4644 s
-|   c                           |       5,182 s
-| rust                        |   4,8419283258 s
+| language benched        | execution time  (in seconds)   | comments         |
+| ------------------------|--------------------------------|------------------|
+|  python                 |      8min 7                    | Python 3.4 numpy |
+|  c++                    |      5,4644                    | g++ 7.3.0 x64    |
+|  c                      |      5,182                     | gcc 7.3.0 x64    |
+|  rust                   |      4,8419283258              | rust 1.28.0      |
 
 ####Ubuntu 18.04
-| language benched| execution time                    | comments            |
-| ------------------------|------------------------------------|----------------          |
-|  python                  |                  5m23,214s        |Python 3.4 numpy|
-|  c++                      |                  6,139s                | Clang 6                 |
-|  c                            |                 5,951s	              |Clang 6                  |
-|  rust	                 |                 7,0702s              | rust 1.28.0            |
-| Crystal                   |                  5.4168s             |Crystal 0.25.1        |
+| language benched        | execution time  (in seconds)   | comments         |
+| ------------------------|--------------------------------|------------------|
+|  python                 |      5m23,214      |    Python 3.4 numpy          |
+|  c++                    |      6,139         |    Clang 6                   |
+|  c                      |      5,951         |    Clang 6                   |
+|  rust	                  |      7,0702        |    rust 1.28.0               |
+| Crystal                 |      5.4168        |    Crystal 0.25.1            |
 
 Wanted output : 
 ```
