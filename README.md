@@ -20,14 +20,14 @@ c                      |      5,182                    | gcc 7.3.0 x64
 rust                   |      4,8419283258             | rust 1.28.0      
 
 #### Ubuntu 18.04
-| language benched        | execution time  (in seconds)   | comments         |
-| ------------------------|--------------------------------|------------------|
-|  python                 |      5m23,214      |    Python 3.4 numpy          |
-|  c++                    |      6,139         |    Clang 6                   |
-|  c                      |      5,951         |    Clang 6                   |
-|  rust	                  |      7,0702        |    rust 1.28.0               |
-| Crystal                 |      5.4168        |    Crystal 0.25.1            |
-
+| language benched        | execution time  (in seconds)   | comments               |
+| ------------------------|--------------------------------|------------------------|
+|  python                 |      5m23,214                  |    Python 3.4 numpy    |
+|  c++                    |      6,139                     |    Clang 6             |
+|  c                      |      5,951                     |    Clang 6             |
+|  rust	                  |      7,0702                    |    rust 1.28.0         |
+|  Crystal                |      5.4168                    |    Crystal 0.25.1      |
+|  Scala                  |      40,5556                   |    Scala 1.12.2        |
 Wanted output : 
 ```
 result : 281726329711.800900
