@@ -28,6 +28,7 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  rust	                  |      7,0702                    |    rust 1.28.0         |
 |  Crystal                |      5.4168                    |    Crystal 0.25.1      |
 |  Scala                  |      40,5556                   |    Scala 1.12.2        |
+
 Wanted output : 
 ```
 result : 281726329711.800900
