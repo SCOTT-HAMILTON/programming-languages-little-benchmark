@@ -27,7 +27,7 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  c                      |      5,951                     |    Clang 6             |
 |  rust	                  |      7,0702                    |    rust 1.28.0         |
 |  Crystal                |      5.4168                    |    Crystal 0.25.1      |
-|  Scala                  |      40,5556                   |    Scala 1.12.2        |
+|  Scala                  |      6.8236                  |    Scala 1.12.2  openjdk11       |
 
 Wanted output : 
 ```
