@@ -28,6 +28,7 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  rust	                  |      7,0702                    |    rust 1.28.0         |
 |  Crystal                |      5.4168                    |    Crystal 0.25.1      |
 |  Scala                  |      6.8236                  |    Scala 1.12.2  openjdk11       |
+|  NodeJS                 |      15,3494                 |    Node 10.9.0                   |
 
 Wanted output : 
 ```
