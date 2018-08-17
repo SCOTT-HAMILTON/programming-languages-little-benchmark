@@ -16,6 +16,7 @@ rust : 7,0702s	   //rust 1.28.0
 Crystal : 5,4168s  //Crystal 0.25.1 LLVM4
 scala : 6.8236s   //scala 1.12.2 openjdk11 
 NodeJS : 15,3494s //nodejs 10.9.0
+D : 4.2612        //D 2.081.2
 
 Wanted output : 
 result : 281726329711.800900
