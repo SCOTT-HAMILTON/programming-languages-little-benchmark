@@ -26,12 +26,13 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  c++                    |      6,139                     |    Clang 6             |
 |  c                      |      5,951                     |    Clang 6             |
 |  rust	                  |      7,0702                    |    rust 1.28.0         |
-|  Crystal                |      5.4168                    |    Crystal 0.25.1      |
-|  Scala                  |      6.8236                  |    Scala 1.12.2  openjdk11       |
+|  Crystal                |      5,4168                    |    Crystal 0.25.1      |
+|  Scala                  |      6,8236                  |    Scala 1.12.2  openjdk11       |
 |  NodeJS                 |      15,3494                 |    Node 10.9.0                   |
-|  D                       |      4.2612                  |    D 2.081.2                      |
-|  Ruby                    |     18.7344                  |    ruby 2.5.1                     |
-|  Julia                   |      6.3742                  |    julia 1.0.0                    |
+|  D                       |      4,2612                  |    D 2.081.2                      |
+|  Ruby                    |     18,7344                  |    ruby 2.5.1                     |
+|  Julia                   |      6,3742                  |    julia 1.0.0                    |
+|  nim                     |      7,112                  |    nim 0.17.2                    |
 
 Wanted output : 
 ```

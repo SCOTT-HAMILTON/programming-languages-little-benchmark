@@ -19,6 +19,7 @@ NodeJS : 15,3494s //nodejs 10.9.0
 D : 4.2612s       //D 2.081.2
 Ruby : 18,7344s   //ruby 2.5.1
 Julia : 6,3742s   //julia 1.0.0
+Nim : 7,9112s     //nim 0.17.2
 
 Wanted output : 
 result : 281726329711.800900
