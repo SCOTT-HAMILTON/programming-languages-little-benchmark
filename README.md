@@ -30,6 +30,8 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  Scala                  |      6.8236                  |    Scala 1.12.2  openjdk11       |
 |  NodeJS                 |      15,3494                 |    Node 10.9.0                   |
 |  D                       |      4.2612                  |    D 2.081.2                      |
+|  Ruby                    |     18.7344                  |    ruby 2.5.1                     |
+|  Julia                   |      6.3742                  |    julia 1.0.0                    |
 
 Wanted output : 
 ```
