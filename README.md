@@ -33,6 +33,7 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  Ruby                    |     18,7344                  |    ruby 2.5.1                     |
 |  Julia                   |      6,3742                  |    julia 1.0.0                    |
 |  nim                     |      7,112                  |    nim 0.17.2                    |
+|  Dart                     |      7,3104                  |    dart 2.0.0                    |
 
 Wanted output : 
 ```
