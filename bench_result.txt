@@ -21,6 +21,7 @@ Ruby : 18,7344s   //ruby 2.5.1
 Julia : 6,3742s   //julia 1.0.0
 Nim : 7,9112s     //nim 0.17.2
 Dart : 7,3104s    //dart 2.0.0
+LuaJIT : 3,739s   //LuaJIT2.0.5
 
 Wanted output : 
 result : 281726329711.800900
