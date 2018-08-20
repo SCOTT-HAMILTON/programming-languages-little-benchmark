@@ -35,6 +35,7 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  nim                     |      7,112                  |    nim 0.17.2                    |
 |  Dart                     |      7,3104                  |    dart 2.0.0                    |
 |  LuaJIT                     |      3.739                  |    LuaJIT 2.0.5                    |
+|  Lisp                        |        9.7546            |      Sbcl 1.4.5                    |
 
 Wanted output : 
 ```
