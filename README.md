@@ -3,6 +3,7 @@ A little benchmark comparing the runtime speed of C , C++, Python Rust  and othe
 
 Credits:
 Big thanks to Absolute-Code for his great help on Rust and the scala's code! 
+We've get helped from D3nX who made the Ruby and Go code!!!
 
 #### RESULTS : 
 
@@ -34,8 +35,9 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  Julia                   |      6,3742                  |    julia 1.0.0                    |
 |  nim                     |      7,112                  |    nim 0.17.2                    |
 |  Dart                     |      7,3104                  |    dart 2.0.0                    |
-|  LuaJIT                     |      3.739                  |    LuaJIT 2.0.5                    |
-|  Lisp                        |        9.7546            |      Sbcl 1.4.5                    |
+|  LuaJIT                     |      3,739                  |    LuaJIT 2.0.5                    |
+|  Lisp                        |        9,7546            |      Sbcl 1.4.5                    |
+|  Go                     |        3,4684             |         go 1.10.3               |
 
 Wanted output : 
 ```

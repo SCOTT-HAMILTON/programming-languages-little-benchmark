@@ -23,6 +23,7 @@ Nim : 7,9112s     //nim 0.17.2
 Dart : 7,3104s    //dart 2.0.0
 LuaJIT : 3,739s   //LuaJIT2.0.5
 Common Lisp : 9,7546s //Sbcl 1.4.5
+Go : 3,4684s      //1.10.3
 
 Wanted output : 
 result : 281726329711.800900
