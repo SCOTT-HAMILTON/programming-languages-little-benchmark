@@ -38,6 +38,7 @@ rust                   |      4,8419283258             | rust 1.28.0
 |  LuaJIT                     |      3,739                  |    LuaJIT 2.0.5                    |
 |  Lisp                        |        9,7546            |      Sbcl 1.4.5                    |
 |  Go                     |        3,4684             |         go 1.10.3               |
+| Clojure                 |      8,3992                 |     Clojure 1.9.0                 |
 
 Wanted output : 
 ```
